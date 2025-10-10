@@ -20,6 +20,3 @@ Learning, building, and sharing my journey in tech one project at a time.
 📫 Let’s Connect
 
 📧 alinagulzar177@gmail.com
-
-💼 LinkedIn
- (add your link here)
